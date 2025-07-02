@@ -1,0 +1,346 @@
+>A
+MHHHHHHHHHHSETTYTGPRSIVTPETPIGPSSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTFRSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVFGDVGNVFVDNDNVAKVITMSGSSAPANRGATLMLCRATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWEANKTLTYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQLYGFSWSSPTYACVTWEPIYAEEGIPHR
+>UniRef100_A0A192W0U5 Capsid polyprotein VP90 n=1 Tax=Astrovirus MLB2 TaxID=683172 RepID=A0A192W0U5_9VIRU
+---------------YTGPRSVL-PDQPIGPSSYPMTPDSLVLMAGYFRAPEINENFGRYMPYVFQQRSEVIKFVSGTHHTMVVGFWTVDRTMWLDKHFNHFTNEPDGVFGEVGNILINGDNVAKVITMSGSSATSERGATLMLCKTTKPVQTFSVNADVFIPAYRVIDGQSSKDIKIQINSWEDNKQLQFTSMPTGTYFMVLTMGGGTFVVKNYVVYNERINNDLQLPAFWGKYLSQAFGLSWSSPTYACVTWEPIYSNEPLPHR
+>UniRef100_A0A8E0KGJ4 Capsid polyprotein VP90 n=1 Tax=Macaque MLB-like astrovirus TaxID=2796356 RepID=A0A8E0KGJ4_9VIRU
+---------------VLGPRGPVEPSQPIGPSSYPMTSASLVLMGGYFRSP-MAANFGQYMAYLFRQKNDnrkiEYRLASGSRT-KVVFFCYVDYVKWMDKQFNLYTNEPDGVFGDVGNIYINGSNVAKVISMSGTSGTFNNGITFMLCRTTSAIGNFQVsDVEIYVPYLRVFQGTGGKDMDISFQKWEDSSNISFNAMPDNMYFLVATMGGGKFAAKSYTVYNEEFSESFHLNARWAKYISQVFGMSWDSPTYACVTWEPRYLQEPVPSR
+>UniRef100_K4P1D9 Capsid polyprotein VP90 n=1 Tax=Astrovirus MLB3 TaxID=1247114 RepID=K4P1D9_9VIRU
+---------------YTGPRSIL-PDQPIGPSSYPMTPDSLVLMAGYFRSPEINDNFGMYLPYVFQQSTSVIQFGSGNHRVMVVGLWTVERLMWLDKHFNHYTNEPDGVFGEVGNIFINNDNVAKVITMSGSSATSERGATLMLCKTTKPVQNFNLTANVFIPAYRVVDGQGGKDVKIQINLWEENKQLQFPAMPSGTYFMVLTMGGGTFTVGRYLVYNERINNDLQLSAFWGKYLSQAMGLSWSSPTYACVTWEPIYSNETIHHR
+>tr|C5IDP4|C5IDP4_9VIRU Capsid polyprotein VP90 OS=California sea lion astrovirus 2 PE=3 SV=1
+----------------------------------PHFQNQDEAYFMSNIS-FLATNGSGVPKAMYqAATILRIKmDISgVVKNAPLCFFRKLSAPHAFFTTHpdstlstfVGTNL-PPAIP-GFEFQNTSNQKFGNVHFYSTQVvrrDTDYYKYDFYVINITART--NLTTLGDKFDMA-ETSGYAAIQFNNT--ES-----PAGLTLEQSNWYLV----------------------------------------------------------------
+>tr|G1JYU6|G1JYU6_9VIRU Capsid protein (Fragment) OS=California sea lion astrovirus 7 PE=4 SV=1
+----------------------------------SGYDEEGWLVFNCA------------TSYTMgsacAAKNSTLAiGLKsknnlsTEIKIPTVFCAKVETPHCFLKSNeagqvlgyIAAASLPPAAGI-SLVSKTSSTVYGTVHAFG--ShivtsttPAKKVKYDFYLVKITSDH--ASTSQTDAHDIY-VAQGTNVLQFHRR--SE-----QPRLTLNNQSWYIF----------------------------------------------------------------
+>tr|G1JYT7|G1JYT7_9VIRU Capsid protein (Fragment) OS=California sea lion astrovirus 4 PE=4 SV=1
+----------------------------------PISNEFFYMAFTTAA---------------LgntfLAKITNFKvvDVEdTTHTSTPMAIMKIDSPHSAYHVKevdgqirpGDWASNALPAAIPRLEVRNGATKVGTVHGFAAQGvqqgd--SKYLFNAFLVIMTQETRltynvgS------IPYKFE---STANLVSC-ATATTT-----STQVTLTPGPWYYF----------------------------------------------------------------
+>tr|G1JYU0|G1JYU0_9VIRU Capsid protein (Fragment) OS=California sea lion astrovirus 5 PE=4 SV=1
+------------------------------------ITDEVYLRTVLYPM-L--------SGPEFahtwCNSSSTqqHLvvGLDttrntHINNVWRIGSRGDWSPTFYN---RDLERIPPPR--ANLSVYLNETKIGDVLM-AYQHvvan---NVLSLFY-VKLTKTQSisynqvCKTTKVETSNTLA-IVTGTGE---------------LRTITLNQGTWYLF----------------------------------------------------------------
+>tr|A0A076JYW8|A0A076JYW8_9VIRU Capsid polyprotein VP90 OS=Mamastrovirus 2 PE=3 SV=1
+----------------------------------Fdptnvg--------------------PTRP--N--FgvylAGTY--asdtLRiGS-sITGNSfsLVHMIVRVENPKLFN---RKWEPLPTPVPIPNLRLYGGTTHIGDILLKTQVQgpsgAA-TQILSIWKNLDKNVTVtprtsngwhTTK--------AA-Q-----NSYMQVAQVSD-----AAEWRLFQGVWYLM----------------------------------------------------------------
+>tr|B0FLE7|B0FLE7_HASV1 Capsid polyprotein VP90 (Fragment) OS=Human astrovirus-1 PE=3 SV=1
+-----------------------------------------------QLRKq-------GVTGPK-paICQRATatlgtvgsNTsGN-tEIEACILLNPVLVKDA-------------TGSTQFGPVQALGA-qysMWKL----------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q8JUE4|Q8JUE4_HASV8 Capsid protein (Fragment) OS=Human astrovirus-8 PE=4 SV=1
+----------------------------------------EQFRVLLTVGPp-------MAPNTANsqnwVNKTIVppenqytv-KiGI-dLEHYTTMQGFTPVESVSWYT---ADFQPSDEPSPIPGLYARVNNTKKADVYGVQQFKsshtNNRHQITSVFLVRVTTSFQviNYT---SYFIRGA-ES-GSNVSNVKIRDQTY-----HTPLQFTQGKWYLL----------------------------------------------------------------
+>tr|W5X1V8|W5X1V8_PASV1 Capsid polyprotein VP90 OS=Porcine astrovirus 1 PE=3 SV=1
+---------------------------------------TIYLRFKPDTL-SVVSNFQPAKRPMLaktySGDTLTVGqGNNktAIHTVV-----RISDPTWFS---ADWDPISTPQPIAEIYCKAGTTTVGDILA-AYQVhglgn---HTTTAYV-VRMTAGANpqvsagIVTNKGTNDYDLK-TANSNAG----------------FSWNLGSGTWYLM----------------------------------------------------------------
+>tr|E7CVF0|E7CVF0_9VIRU Capsid polyprotein VP90 OS=Astrovirus swine/PoAstV12-3/Canada/2006 PE=3 SV=1
+---------------------------------------TIYLRFKPETL-SVVSNYQPAQRPMLaktySGGDLIVEqGTNktKIHTIV-----KISDPSWYS---AYWDSISTPQPIAEVNCKVGAAVVGDILA-SYQVhglga---HTTTAFV-VRMTTNANtrvqtgAITTKDINDYDLK-IKGGRPE----------------FSWNLASGTWYLM----------------------------------------------------------------
+>sp|Q9JG99|CAPSD_PASV1 Capsid polyprotein VP90 OS=Porcine astrovirus 1 GN=ORF2 PE=3 SV=1
+---------------------------------------IVYLRFKPETV-NI--SVSPAARLFLarkyTAHSLKVKGNSgttRIHCVV-----KVNDPMWYS---PDWEQVAQPGPIPGVSLLGGTTTIGIVTA-AYQAhmwgl---HIATAFI-VQVTKDINpacstsCVLTKELNDQHLK-TVAGQTS----------------FNWSLRAGETYLM----------------------------------------------------------------
+>tr|G4V2D4|G4V2D4_PASV1 Capsid polyprotein VP90 OS=Porcine astrovirus 2 Shanghai/2008 PE=3 SV=1
+---------------------------------------VIYMNFKPETV-TV--NSTPADRFLFarnyQSDTLTVRGVDgrtKVHGVV-----RILEPAWYD---LDWDPVPQPAPIPGVKLYGGDTTIGDVIA-AYQAhmlgl---HIATAFV-VMVEKQVSprantsCALTKLANDPHLK-TTAGNTA----------------FNWTLTTG-MYLM----------------------------------------------------------------
+>tr|A0A1Q1N6P7|A0A1Q1N6P7_9VIRU Capsid polyprotein VP90 OS=Qinghai Himalayan marmot astrovirus 1 PE=3 SV=1
+----------------------------------PtpVVGDAFTLVGSVTNNAtmqnvSF----TPFPTFIW--------pFVVGEPQQAFYHFYitdgtnvfptqacaAVTASALFQSRTVQLPTAATGLQLKFGAVVIG-DVVAGLT------srn--SSTFATVSLVRATLGTAanfpV-----------SAPA--EGNSDLlrsivssssvnaypemrwaryNPPANGT-----TARSEFSAGNYYL-----------------------------------------------------------------
+>tr|F1D810|F1D810_9VIRU Capsid polyprotein VP90 OS=Minke whale astrovirus 2 PE=3 SV=1
+----------------------------------PptppeleKPDGPFYLSCRAHSAAmqheS-------------------HValVLAGTNAQLVAKIRvahgsssvhdttddHIGLVFYLANAFAHS---TTGKLLEMPGWiqsvqdvvHFNGTEVGTICA----AtrfyqgdssPDHHWIVNVYLIQLSKLVS--------LHGSWSAAHTVTVRDQsddtsvaKLKNNTS-----ITYTDLPANSYVLG----------------------------------------------------------------
+>tr|H9BYK2|H9BYK2_9VIRU Putative capsid protein OS=Astrovirus MLB1 PE=4 SV=1
+----------------------------------SypMTPSSLVLMAGYFSGPeisdNF----GKYMPLLFqqn-----TSKvtFRSGSHTIKIVSMVlvd---RLMWLDKHFNQYTNEPDGVFGDVGNVFVDNDNVAKVI------tmsgssAPANRGATLMLCKATK-NIqtfnfaAT-----VYIPAYKVKDGAGGKDVvlnvaqwe---ANKT-----LAYPAIPKDTYFM-----------------------------------------------------------------
+>tr|C0JJJ9|C0JJJ9_9VIRU Capsid protein (Fragment) OS=Astrovirus MLB1 PE=4 SV=1
+-----------------------------------------------------------------rlmwLDKHFNqytnepdgvfg-DvG----------------------------------------NVFIDSDNVAKVITMSGSSa-PSNRGATLMLCKATKSIQtfnfaatVYI---PAYKVKD-GA---GGKDVVLNVAQW-----EANKIltypaIPKDTYfmvvtmggasftiqrYVV----------------------------------------------------------------
+>tr|T2ET87|T2ET87_HASV5 Capsid polyprotein VP90 OS=Human astrovirus-5 GN=ORF2 PE=3 SV=1
+----------------------------------L----------------TVGQPVTP--NEINkqnwVGKTNTpteevIKiGV-nTQSYNVMNGFTMISSIDWYD---EEMQPLEVPAPMSDLLVMKGINKKADVYAAQQYKnsisNNKHQITSVYLIRVK--ENfqvtNHL---SYFFREK--VDTTAVELMKIRPQTY-----HTTVNFVQNNWYLL----------------------------------------------------------------
+>tr|Q14V20|Q14V20_HASV1 Capsid polyprotein VP90 OS=Human astrovirus-1 PE=3 SV=1
+----------------------------------L----------------TFGTPMSP--NANNkqtwVNKPLDapsatshVQtAK-dVDPYLTLPGFPSIASVDWYP---IDFQPSEAPAPIPGLQVLVNSSKKADVYAIKQFVtaqtNNKHQVTSLFLVKVT--TGfqvnNYL---SYFYRPS--AAGDTTTNLLVRGDTY-----TAGISFTQGGWYLL----------------------------------------------------------------
+>tr|A8QIF3|A8QIF3_HASV1 Capsid polyprotein VP90 OS=Human astrovirus-1 PE=3 SV=1
+----------------------------------L----------------TFGAPMSP--NANNkqnwVNKPLDapsghynVKiAK-dVDHYLTMQGFTSIASVDWYT---TDFQPSEAPAPIQGLQVLVNSSKKADVYAVKQFVtaqtNNKHQVTTLFLVKVT--TGfqvnNYL---SYFYRAS--ASGDATTNLLVRGDTY-----TAGISFTQVGWYLL----------------------------------------------------------------
+>tr|Q9QT37|Q9QT37_9VIRU Capsid polyprotein VP90 OS=Mamastrovirus 1 GN=ORF2 PE=3 SV=1
+--------------------------------------------------LkvllTVGNPISP--NETNkqtwVNKTIEppgavVKiGR-dTQHYCTMNGFTlitkvdwfteefQPSEEPAPV---QGL------------MVLLDNHKKADVYAAQQYKnpitNDKQQVTSVFLVRVN--EGfqvtNHL---SYFYRNS--VNTDAVENIKIRSATR-----HTTVRFNQGSWYLL----------------------------------------------------------------
+>tr|Q9JH56|Q9JH56_HASV4 Capsid polyprotein VP90 OS=Human astrovirus-4 PE=3 SV=1
+----------------------------------M----------------TAGALVQP--NRSYsqswLFKTVTpptghdaARvGW-nTQHYLTIQGFLLIDSLEWLT---PNLQESQEPPSIPELGVYVGIHKKALVYFMQQYVnphtNNKHQVSSIFLIKPTE--NfsvtNYM---SYFFRES-QSD-QNVANLKIRPQTW-----QQTVNFQRGKWYLV----------------------------------------------------------------
+>tr|Q14V16|Q14V16_HASV1 Capsid polyprotein VP90 OS=Human astrovirus-1 PE=3 SV=1
+----------------------------------L----------------TIGQPLAP--NTLTkqswLNKTTVspqnhhvVKiAK-dVNNYTTMQGFTPISSVDWYT---TDFQPSEEPTPIPGLQVLVNSSKKADVYAIQQYLnnqtNNKVQLTSIFLVKVT--TSfqvnQLF---GAISTGA-MELVLLLENLKVRSDTT-----AQDVNFP-VGWYLM----------------------------------------------------------------
+>tr|Q14V07|Q14V07_HASV1 Capsid polyprotein VP90 OS=Human astrovirus-1 PE=3 SV=1
+----------------------------------L----------------TIGQPFAP--NTLAnqtwVNKTTTapqgqhvVKiAK-dTSNYTTMQGFTPISNVTWYT---EDFQPSEEPPPISGLQVLVDSRKKADVYAVQQYLnhpsNTKDQLTSIFLVRVT--TSfqvnNHL---SYFYRA--AGTGTAVENFKIRGATS-----DQNISFS-EGWYLM----------------------------------------------------------------
+>SRR5699024_782850 
+------------------------------------SDGRSFDLVTLPVGQm-------GMTIAPFdqplpvlrIETTLSagagklpeqlatiaaipsltglnrRKfHL-mMDMRLDMQGMMMLREK-------------YGPQAMGNMGGHGG-mmgNX------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|L8AYM3|L8AYM3_9VIRU Capsid protein (Fragment) OS=Mamastrovirus 1 PE=4 SV=1
+--------------------------------------GRAFYLVTLPVGQm-------GMTIAPFdqplpvlrIETTLTpsegklpstlaaipaipslaglnrRRfHL-mMSLRLDMQGMMMLRGK-------------YGPQAMGNMGGLAYDgkygSWGDDEYWRKNHGnmgqGNKRG--------------------------------------------------------------------------------------------------------------------------------
+>tr|G1JYU3|G1JYU3_9VIRU Capsid protein OS=California sea lion astrovirus 6 PE=4 SV=1
+----------------------------------PTYDNEGWIIFNCA------------TSYLLgtpfAAKNGTLRiGLKskangDIIKVPTVFCARINTPHCFLKSNengdilglISHNQLPPTAGI-NLVSQNGNTVYGTVHAYG--ShivatsgtaEQKKVKYDFYLVKVTTAT--ASTEQTDAKNIY-IEAGTNIMKFSER--TG-----DTRLQLTDQVWYLF----------------------------------------------------------------
+>tr|G1JYV2|G1JYV2_9VIRU Capsid protein OS=California sea lion astrovirus 9 PE=4 SV=1
+----------------------------------PVFARQDWMIANMQLS-F------PNGG--YakvvKSTTLRIRwSISeVEHGCPIVFWMRVHAPHSFFKSDaegdnlsfVGTAL-PPSID-EAKLVNGSGEVFGTVHAYS--ShlitsGNAKFKYDFYLVKIIKDG--ASHDGQDPKTIV-TMPGHNTLNFATDTATD-----ARRINLNTNVWYLL----------------------------------------------------------------
+>tr|G1JYV5|G1JYV5_9VIRU Capsid protein (Fragment) OS=California sea lion astrovirus 10 PE=4 SV=1
+-----------------------------------ALGDGLNLASI---------NSDGQARYFK-SPGFEVKtTIGgSPHSAPIGLVTRLATPHAFFTILagdnfgeKVMNTLPPALAFSGM---ASGSEHFTIHGYTYKVvqqTTNYYKYDFYLAKAKTTN---HVTPAHEWAIG-LTQGSNTISFTSVT--S-----PGRVTWSQNNWYLF----------------------------------------------------------------
+>tr|G1JYU9|G1JYU9_9VIRU Capsid protein (Fragment) OS=California sea lion astrovirus 8 PE=4 SV=1
+-----------------------------------AFGDGLNLAAI---------CSDGRARYLK-NISFEVKtSVGgTQHKAPIGFCVRLASPHAFFNLSssdnfgeKVMNTIPPSISFVGV---VGATEHFTIHGYTYEVvtqQSNTYKYDFYLAKAKTDA---FLTPTEEWTLG-LTQGTNTISFTSA---T-----PAQVAWNVGNWYML----------------------------------------------------------------
+>tr|A0A1L6BXE4|A0A1L6BXE4_9VIRU Capsid polyprotein VP90 OS=Canine astrovirus PE=3 SV=1
+----------------------------------PpsVISDNFMLVTGFNQPYqsn------PPCPTYIYkd-----DVKvvVKCENSYDEVNFFFkaa--HPHAWLTGSAGNWTGAGKPDFLSFMEVGVRNNAGNYNKA----GnlwgysqhrVTSGDTTSVLTFYVGQLSStiR-------------IQSPKSQRYRyvaigdttslqPDGTETV-----PRTFELNPGPWIIF----------------------------------------------------------------
+>tr|A0A1Q1N6P6|A0A1Q1N6P6_9VIRU Capsid polyprotein VP90 OS=Qinghai Himalayan marmot astrovirus 2 PE=3 SV=1
+------------------------------------PGLPFVVDAAITSQQmsvgtvpgtlnalvvsesgSW----GNFIQFGSdt------NYrvAVNGMWTLPDIHAWdvhgdvvvppgfgASTATLWLNDRQTGA-------------TLVG------IS------tnsdtnATETAVENYFLWKIG---------------SYSAA-TTSNQQFqsyilaptsegsnppvlyriyG--DRGA-----MKYPAYQGGFLLTM----------------------------------------------------------------
+>tr|G1JYW1|G1JYW1_9VIRU Capsid protein OS=California sea lion astrovirus 11 PE=4 SV=1
+---------------------------------------EVYLHCSLHN---------ESQRAYLfkefLGGPLRAGiSLTrkcTIRYVARISDHKGVSPYWLD---SNLNPINPPR--GNMSIYWGNDRWAKVFAFSYTRadnyi---TAAFAFA-MEANQRLTpskqfaLSLAEGHTNYTLI--DRDRQG----------------AAFSLNRGVWYLG----------------------------------------------------------------
+>tr|A0A1Y0AYJ8|A0A1Y0AYJ8_9VIRU Capsid protein (Fragment) OS=Human astrovirus PE=4 SV=1
+---------------------------------------G-ELRVLLTVGSi-------MSPNSADrqvwLNKTLTapgtnpndnlv-KiAH-dLXHYLIMQGFMHIKTVEWYT---PDFQPSRDPTPIAGMSVMVNITKKADVYFMKQFKnshtNNRHQITSIFLIKPLADFKvqCYM---SYFKRES-HDNNDGVANLTVRSMTS-----PKTIRFQAGEWYLL----------------------------------------------------------------
+>tr|Q910Y3|Q910Y3_HASV3 Capsid protein (Fragment) OS=Human astrovirus-3 PE=4 SV=1
+----------------------------------------DTFNVVLTIGQp-------LAPNTLTkqnwLNKTTVppqnhhvv-KiAK-dVNNYTTMQGFTPISSVDWYT---TDFQPSEEPTPIPGLQVLVNSSKKADVYAIQQYLnnqtNNKVQLTSIFLVKVTTSFQvnNYL---SYFYRSY-GT-GTTVENLKVRSDTT-----AQDVNFPV-GWYLM----------------------------------------------------------------
+>tr|A0A0C6E4L7|A0A0C6E4L7_PASV1 Capsid protein (Fragment) OS=Porcine astrovirus 1 PE=4 SV=1
+----------------------------------------------------------MSPNANNkqnwVNKPLDapsghynv-KiAK-dVDHYLTMQGFTSIASVDWYT---TDFQPSEAPAPIQGLQVLVNSSKKADVYAVKQFVtsqtNNKHQVTTLFLVKVTTGFQvnNYL---SYFIEVM-EL-VLLFENLKVRSDIV-----AHDVNFPV-GWYLM----------------------------------------------------------------
+>SRR5690606_1374090 
+-----------------------------------KCGGQEWLDVMRAAHKi-------NLPTSATm-------MfGH-iETIEERFEHLVWIREVQEER---PA-------------------------------------DAYGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6185295_5786956 
+-----------------------------------KCSGKEWLDIMRAAHQl-------YITTSATm-------MfGH-vEAIEERFEHLVWIREVQSEK---PE-------------------------------------DAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5207237_5551048 
+-----------------------------------KCGSQEWLDIMHEAHKl-------NLTTSATm-------MfGH-vETVLERMEHLVKLREVQAKK---PA-------------------------------------YAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR4029079_5736685 
+-----------------------------------KCSGREWLDVMRAAHKl-------RITTSATm-------MlGH-iETLEERFEHLVSLRNVQHEK---PS-------------------------------------DAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5256885_12966586 
+-----------------------------------KCGGREWLDVMRAAHKl-------NITTSATm-------MlGH-iETVYERFEHLVWLREVQNE----------------------------------------KPKDAVWFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6201987_3943224 
+-----------------------------------KCNGREWLDVMRAAHQl-------NLTTSATm-------MfGH-vETIYERFEHLVLLRQVQSEK---PK-------------------------------------AAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6185295_9237339 
+-----------------------------------KCSGREWLDVMKAAHQl-------NITTSATm-------MfGH-vESIYERFEHLVWIREVQSQK---PK-------------------------------------GSKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954464_5817805 
+-----------------------------------KCGAEEWLDIMHEAHKl-------NITTSATm-------MfGH-vETLQERFEHLVKLREVQSRK---PA-------------------------------------GAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700710_2102206 
+-----------------------------------KCGAQEWLDIMHEAHKl-------YITTSATm-------MfGH-vETIEERFEHLVKIRDVQEKA---KEGQK------------------------------ELPAGRKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6187549_3975707 
+-----------------------------------KCGGKEWLDVMRAAHKl-------NLTTSATm-------MfGH-iETIEERFEHLVWLREVQAEK---PA-------------------------------------NAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5437868_11655415 
+-----------------------------------KCGADEWLDIMHEAHKl-------HITTSATm-------MfGH-vETIRERMEHLVKLRDVQSRK---PE-------------------------------------SAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5580704_16299908 
+-----------------------------------KCGAQEWLDIMQEAHKl-------RITTSATm-------MfGH-vETIRERFEHLVMLRTVQAEK---PD-------------------------------------DAKGF---------------------------------------------------------------------------------------------------------------------------
+>ERR1022692_4649999 
+-----------------------------------KCGAQEWLDVMRAAHQl-------RITTSATm-------MfGH-iETLQERFEHLVSIRQVQSEK---PA-------------------------------------DAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700679_2492124 
+-----------------------------------KCGAQEWLDIMYEAHQl-------HITSSATm-------MfGH-vETLHERMEHLIRIREVQARK---PA-------------------------------------DAKGFLA-------------------------------------------------------------------------------------------------------------------------
+>SRR5213075_1531745 
+-----------------------------------KCGSQEWLDIMQEAHKl-------NITTSATm-------MfGH-vETIEERFEHFVKIREVQSRK---PK-------------------------------------DAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6188768_193263 
+-----------------------------------KCSGQEWLDVMRAAHQl-------GLTTSATm-------MlGH-vETLYERFEHLAWIRQVQSEK---PN-------------------------------------HSKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700739_4660313 
+-----------------------------------KCGSQEWLDIMHEAHKl-------NITTSATm-------MfGH-vETLAQRMEHLIKLREVQAKK---PA-------------------------------------GAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954470_20300586 
+-----------------------------------KCGGQEWLDVMRACHQl-------NITTSATm-------MfGH-vETIYERFEHLVWIREVQAQ----------------------------------------KPAHAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6185295_10835978 
+-----------------------------------KCGGQEWLDVMRAAHKl-------NLTTSATm-------MmGH-vETLYERFEHLAWIRQVQAEK---PA-------------------------------------NAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954469_36379 
+-----------------------------------KCNGREWLEIMRAAHKl-------RITTSATm-------MmGH-vETLYERFEHLVWIRNIQNEK---PV-------------------------------------DAKG----------------------------------------------------------------------------------------------------------------------------
+>SRR5215203_1503583 
+-----------------------------------KCSGREWLDVMRAAHRl-------NITTSATm-------MfGH-iETIDERFDHLVWLREVQAE----------------------------------------KPANSKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5471030_308922 
+-----------------------------------KCGAQEWLDIMREAHRq-------GITTSATm-------MfGH-vETIEERFEHLVSIREVQAA----------------------------------------KPNNAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6185436_18738445 
+-----------------------------------KCTGREWLDVMRAAHQl-------NITTSATm-------MlGH-iETNYERFEHLVWLRDVQQEK---PK-------------------------------------SAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5882762_7870435 
+-----------------------------------KCGGKEWLDVMRAAHKl-------NIPTSATm-------MfGH-vETLHERFEHLVWLREVQSEK---PK-------------------------------------NAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR4051812_36167485 
+-----------------------------------KCGAQEWLDIMATAHQl-------NITTSATm-------MfGH-vETIRERFEHLVKIREVQAKK---PE---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A1III9|A1III9_9VIRU Capsid protein (Fragment) OS=Mamastrovirus 1 GN=ORF2 PE=4 SV=2
+-----------------------------------KCGGQEWLDVMRAAHKi-------NLPTSATm-------MfGH-mGNNRRTFRALGMASRSTKRK---TS-------------------------------------RCLWIHRL--------Y---P-----------------------------------------------------------------------------------------------------------
+>ERR1051325_5881035 
+-----------------------------------KCTGREWLEIMKAAHQl-------NITTSATm-------MfGH-vETIYERFEHLVWLREVQALK---PV-------------------------------------HT------------------------------------------------------------------------------------------------------------------------------
+>SRR5210317_1171935 
+-----------------------------------KCGGEEWLDVMRAAHQl-------DITTSATm-------MfGH-vETIQERMEHFAALRQVQSEK---PE-------------------------------------HAKGFLA-------------------------------------------------------------------------------------------------------------------------
+>SRR4030095_15660012 
+-----------------------------------KCGAQEWLDIMREAHLq-------QITTSATm-------MfAH-vETIEERFEHLVKIREVQSR----------------------------------------KPADAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6201986_3745918 
+-----------------------------------KCTGREWLEVMKAAHQl-------GLTTSATm-------MfGH-vETIYERFEHLAWIREVQAQ----------------------------------------KPAGAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6185436_3686528 
+-----------------------------------KCTGREWLEVMKACHQl-------NITTSATm-------MfGH-iETLYERFEHLVWLRDIQELK---PD-------------------------------------DAK-----------------------------------------------------------------------------------------------------------------------------
+>ERR1017187_8001613 
+-----------------------------------KCGAQEWLDIMHEAHLq-------GLTTSATm-------MfAH-vETLYERFEHLVKLREVQAQK---PE-------------------------------------GAKGF---------------------------------------------------------------------------------------------------------------------------
+>SRR5678816_843405 
+-----------------------------------KCSGREWLDVMRAAHKl-------GITTSVSy-------ThLT-lPTSDLV----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR6266571_1714371 
+-----------------------------------KCGGKEWLDVMRAAHKl-------NLPSSATm-------MfGH-vETIEERFEHLVLLRQVQSE----------------------------------------KPADAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1044071_6298905 
+-----------------------------------KCGSQEWLDIMTEAHKl-------NLTTSATm-------MfGH-vETLSERMEHLVKIREVQAKK---PD-------------------------------------NSKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6201984_1547071 
+-----------------------------------KCTGKEWLDVMRAAHKl-------NIPKSATm-------MfGH-iETVYERFEHLVLLRQVQSE----------------------------------------KPKDAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6187397_2233882 
+-----------------------------------KCGADEWLAIMHEAHKl-------NITTSATm-------MfGH-vETIQERFEHLIKIRDVQAKK---PT-------------------------------------AAKGFLAF--------I---------------------------------------------------------------------------------------------------------------
+>ERR1700745_1379938 
+-----------------------------------KCGGQEWLDVMRAAHKl-------GLTTSATm-------MfGH-vETVYERFEHLVKLRGVQAE----------------------------------------KPEGAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5215217_6792568 
+-----------------------------------KCGAQEWLDIMHEAHKl-------DLTTSATm-------MfGH-vETVRERFEHLAKIRE-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5215510_5686825 
+-----------------------------------KCSGREWLEVMRAAHQl-------NITTSATm-------MfGH-iETIYERFEHLVWIREAQAQ----------------------------------------KPTSAKGFLAV--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5215467_6909917 
+-----------------------------------KCGAQEWLDIMHEAHKl-------GLTTSATm-------MfGH-vETIYERFEHLVWIRQVQSEK---PE-------------------------------------YSKGFVAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700755_851872 
+-----------------------------------KCGAQEWLDIMHEAHMq-------GLTTSATm-------MfGH-vETIRERFEHLVRIREVQAIK---PE-------------------------------------GAK-----------------------------------------------------------------------------------------------------------------------------
+>ERR1044071_4133582 
+-----------------------------------KCTGREWLEVMKAAHQl-------NLTTSATm-------MfGH-vETIDRKSTRLNSSHE-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5688572_13096361 
+-----------------------------------KCSGREWLEVMRAAHKl-------NITTSATm-------MfGH-iETLEERFEHLVLLREVQSD----------------------------------------KHQSAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954463_10813066 
+-----------------------------------KCTGGEWLDVMRAAHQl-------NLPSSATm-------MfGH-vETIEERFEHLVWIREVQSEK---PE-------------------------------------GHHG----------------------------------------------------------------------------------------------------------------------------
+>SRR5205085_1486960 
+-----------------------------------KCSGKEWLDVMRAAHQl-------RLTTSATm-------MfGH-vETIEERFQHLVWLREVQHD----------------------------------------KPKDAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR4029077_12898759 
+-----------------------------------KCSGREWLDVMRAAHKl-------NLTTSATm-------MlGH-iETIEERLKHLVWLRQVQSE----------------------------------------KPANAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700729_1334283 
+-----------------------------------KCGAQEWLDIMHEAHKl-------HITTSATm-------MfGH-vETIQERFEHLVKLRAVQSEK---PA-------------------------------------DAKGFLA-------------------------------------------------------------------------------------------------------------------------
+>SRR4029079_1196018 
+-----------------------------------KCGSQEWLDIMTEAHKq-------RITTSATm-------MfGH-vETVQERFEHLIKLREVQAKK---PE-------------------------------------DAKGFIA-------------------------------------------------------------------------------------------------------------------------
+>SRR5438128_3174576 
+-----------------------------------KCGAQEWLDIMHEAHKl-------NITTSATm-------MfGH-vETLEERFEHLVKLREVQAKK---PK-------------------------------------DAKGFLAF--------I---------------------------------------------------------------------------------------------------------------
+>SRR4051794_18876289 
+-----------------------------------KCTGKEWLDVMRAAHQi-------DLPTSATm-------MfGH-iETIEERFEHLVWIREVQAEK---PA-------------------------------------DHH-----------------------------------------------------------------------------------------------------------------------------
+>ERR1700674_5529473 
+-----------------------------------KCGAQEWLDIMQEAHRq-------HITTSATm-------MfGH-vETIEERFEHLVKIRDVQELK---PK-------------------------------------DAKG----------------------------------------------------------------------------------------------------------------------------
+>SRR3990172_455655 
+-----------------------------------KCGAQEWLDIMRAAHKl-------NITTSATm-------MfGH-vETLYERFEHLVWIREVQSE----------------------------------------KPKHAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5678810_621065 
+-----------------------------------KCGGQEWLDVMRAAHRi-------GSVSYTHl-------TlPT-s----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR6187401_1776290 
+-----------------------------------KCSGREWLEVMRAAHQl-------NITTSATm-------MfGH-iETLEERFEHLVWLREVQAD----------------------------------------KPDNAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5436190_5795120 
+-----------------------------------KCSGREWLDVMRAAHKl-------NITTSATm-------MlGH-vETKYERFEHLAWLRDVQSEK---PE-------------------------------------HARGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>ERR1700755_2734409 
+-----------------------------------KCGAQEWLDVMRVAHKl-------NITTSATm-------MmGH-vETIYERFEHLAWLRQVQSEK---PE-------------------------------------KAKGF---------------------------------------------------------------------------------------------------------------------------
+>SRR5574343_294277 
+-----------------------------------KCSGKEWLDVMRAAHQl-------NITTSATm-------MfGH-vETIEERFEHLAWIREVQSE----------------------------------------KPEGNYGFTAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR4026208_2414432 
+-----------------------------------KCGSQEWLDIMRAAHRi-------GLTTSATm-------MfGH-iETLTERMEHLVDIRKVQSEK--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690606_12228239 
+-----------------------------------KCGGQEWLDVMRAAHKl-------HLTTSATm-------MfGH-iETNLERMQHFADLRQVQSE----------------------------------------KPADAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954454_15889308 
+-----------------------------------KCGGAEWLDVMRAAHQl-------GLTTSATm-------MfGH-vETLYERFEHLSWIRQVQSEK---PE-------------------------------------NAKGFLAF------------------------------------------------------------------------------------------------------------------------
+>SRR6476620_7806332 
+-----------------------------------KCSGREWLDVMRASHKt-------GLTTSATm-------MfGH-iETIAERFEHLVWLREVQSE----------------------------------------KPESAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3989339_1852668 
+-----------------------------------KCGGQEWLDVMRAAHQl-------GLTTSATm-------MfGH-vETLEERFEHLVWLREVQSE----------------------------------------KPADAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5690606_24171870 
+-----------------------------------KCGGDEWLAVMEAAHQl-------HLTTSATm-------MfGH-iETNRERMDHFVRLREVQARX--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR4030088_1394348 
+-----------------------------------KCGTEEWLTIMKEAHHl-------HLTTSATm-------MfGH-vETIHERFEHLVKIREVQSKK---PVN--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR3989337_3725249 
+-----------------------------------KCTGREWLDVMRAAHRl-------HLTTSATm-------MfGH-vETLEERFEHLVWLREVQSAT---PA-------------------------------------DAKG----------------------------------------------------------------------------------------------------------------------------
+>SRR3954467_6057820 
+-----------------------------------KCGAQEWLDVMRAAHKl-------NIASSATm-------MfGH-vETLQERFEHFAAIRQVQSE----------------------------------------KPEGHYGFTAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5210317_2087793 
+-----------------------------------KCTGREWLDVMRAAHKl-------DITTSATm-------MfGH-iETVEERFEHLCMIRQVQSEK---PE-------------------------------------NSKG----------------------------------------------------------------------------------------------------------------------------
+>SRR5437879_12266622 
+-----------------------------------KCTGREWLRSEERRVGk-------EGKNR---------RwRS-rKKNSS-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5204863_681963 
+-----------------------------------KCSGREWLEVMRAAHQl-------HLTTSATm-------MfGH-vETTDERFEHLVWLREVQEE----------------------------------------KPKETKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR6187549_2088805 
+-----------------------------------KCGGKEWLNVMRAAHKl-------NLTTSATm-------MfGH-iETNLERMQHFAAIRQVQSEK---PA---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR3954451_1395204 
+-----------------------------------KCTGREWLDIMRAAHQi-------NLPSSATm-------MfGH-iETLEERFEHLVWIREVQAEK---PA-------------------------------------DH------------------------------------------------------------------------------------------------------------------------------
+>SRR3972149_8371335 
+-----------------------------------KCGGREWLDIMREAHKl-------NITTSATm-------MfGH-vETINERFEHLVLLRQVQSEK---PK-------------------------------------HAQGV---------------------------------------------------------------------------------------------------------------------------
+>SRR5580765_3026287 
+-----------------------------------KCGGKEWLDVMRAAHKl-------NITTSATm-------IcGY-vKTIYERFEHLVWIREVQSEK---PX---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR3954466_11643158 
+-----------------------------------KCSGREWLEVMRAAHKl-------RLTTSATm-------MfGH-iETIEERFQHLVCLREVQEE----------------------------------------KPKDAKGFIAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR4030067_3783093 
+-----------------------------------KCGGKEWLDVMRAAHQl-------NITTSATm-------MfGH-vETVYERFEHLVWIREVQNE----------------------------------------KPDSSRGFLSF--------F---P-----------------------------------------------------------------------------------------------------------
+>SRR6476620_306844 
+-----------------------------------KCGGEEWLDVMRAAHQl-------NITTEATm-------RlGH-iETNEERYEHLVWIREVQAE----------------------------------------KPEGNYGFTAF--------I---------------------------------------------------------------------------------------------------------------
+>SRR3954468_10965210 
+-----------------------------------KCTGREWLEVMKAAHQl-------HITTSATm-------MfGH-vETIYERFEDLVLIRDVQAQK---PA-------------------------------------NAKGFL--------------------------------------------------------------------------------------------------------------------------
+>SRR6218665_1190320 
+-----------------------------------KCSGREWLDVMRAAHQl-------RITTSATm-------MfGH-vETIYKRFEHLAWIREVQAQ----------------------------------------KPADAKRFL--------------------------------------------------------------------------------------------------------------------------
+>SRR3546814_8936826 
+-----------------------------------KCGGQEWLDRSEEHTSe-------LQSLMRIs-------YaVF-cL---------KKKKRTKTRQ---Q----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5436189_2960634 
+-----------------------------------KCTGREWLDIMRAAHKl-------GITTSATm-------MfGH-vETIYERFEHLVWLREVQDE----------------------------------------KPKGAKGF---------------------------------------------------------------------------------------------------------------------------
+>SRR3982750_3223889 
+-----------------------------------KCSGREWLEVMRAAHRl-------HITTSATm-------MfGH-vETIAERFEHLVWLRDVQEE----------------------------------------KPIDAKGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR3954465_4079187 
+-----------------------------------KCSGREWLDVMRAAHQl-------RITTSATm-------MfGH-iETHYERFEHLALIRQVQSE----------------------------------------KPADAKGFLA-------------------------------------------------------------------------------------------------------------------------
+>SRR3990167_4741534 
+-----------------------------------KCSGREWLDVMRAAHQl-------RLTTSATm-------MfSH-iETHYERFEHLVWLREVQSE----------------------------------------KPADANGFLAF--------I---P-----------------------------------------------------------------------------------------------------------
+>SRR5690606_8536412 
+-----------------------------------KCGAKEWLDVMLAAHQl-------RLTTSATm-------MfGH-vEX--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690606_13096263 
+-----------------------------------KCSGREWLDIMRAAHKi-------DLPTSATm-------MfGH-iETIEERFEHLIWIREVQAE----------------------------------------KPENHHG----------------------------------------------------------------------------------------------------------------------------
+>SRR5215203_3521038 
+-----------------------------------KCGGQEWLDVMRACHQl-------DITTSATm-------LfGH-vETIEERFEHLVWIDRYKVK----------------------------------------NLPMR------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A0M5MSB1|A0A0M5MSB1_9VIRU Capsid polyprotein VP90 OS=Bovine astrovirus PE=3 SV=1
+--------------------------------------------VGYRVDSlkslynsgsAY--ELVPSQ-PVWlqkqNYTKSERGikFKSATQYITTYNVMeaevdamppnd--GVPVFFAWPGGEK---QIGIAIAGSHVDIEG--------------TDEFHLTNILFHATTDEAyifnntND----GSFVRAE-LKHETYTQTFevsa---NLVT-----NTRVQVKSGRWYVA----------------------------------------------------------------
+>tr|A0A1D6Y6S0|A0A1D6Y6S0_9VIRU Capsid polyprotein VP90 OS=Bovine astrovirus GN=ORF2 PE=3 SV=1
+--------------------------------------------TSYIIDNlhtlykeggTW--KKIPAQ-PVWfqkkNYTDSDRGikFVSGNKRITTYNLFeagvdappppt--GIPVYMQD-TAQV---QVGLAVAGTHADLD--------------STREIHLTSILFFATRSRTftfnssND----GTFYRAQ-LTQDAFVQRFtrgs---NEIT-----ELRMVVEENKWYVA----------------------------------------------------------------
+>tr|C0MHS6|C0MHS6_9VIRU Capsid polyprotein VP90 OS=Astrovirus dogfaeces/Italy/2005 GN=cp PE=3 SV=1
+----------------------------------PpaTIEDRFMLVTGVTQPFqvn------PPCPTYTYkd-----NTRivVKVGNHYDEVNFIYkat--HPHVWLAGSQTNWTTSSKPDFMDFMEVGIRDTGGNYNKR----GglwgysqhkLVSSGITNVVTFYVGQLSNqiR-------------ITSVKQQRYQitgtgssttltPTGQETT-----LNVQEINPGPWIVF----------------------------------------------------------------
+>tr|A0A1C9U6H0|A0A1C9U6H0_9VIRU Capsid polyprotein VP90 OS=Mamastrovirus 5 GN=ORF2 PE=3 SV=1
+----------------------------------TpaVIGDNFKLVTGVFQQYqqn------PPCPTYXYhx-----YNKvvVKIGEHYDEINFVFrat--TPHIWLAGTQPNFQVSSKPSALDFMEVGQKS-NGQYLTR----GeiwgysqhkVSSSNGQSVLTFYVGQLSRqiR-------------YSNYKQVRYGfsgnasttslnPLATEYD-----LQYLDLNPGPWFIF----------------------------------------------------------------
+>tr|A0A1L6BXD4|A0A1L6BXD4_9VIRU Capsid polyprotein VP90 OS=Canine astrovirus PE=3 SV=1
+----------------------------------RppLIEDTFTLLTGVVQPYqvn------PPCPTYIYkq-----DTKvvVKMGDRYDEVNFFFkaa--HPHVWLVGSQAGWNTSEKPAALDFMEVGSKRHRWQLQQE----RlplgysqhkVPKWWNYSVLTFYVVALNQqiR-------------IVSSETT-LPvtgsgsettmaLSGNEVS-----EREFILNPGPWFIF----------------------------------------------------------------
+>tr|A0A0M5MQS2|A0A0M5MQS2_9VIRU Capsid polyprotein VP90 OS=Bovine astrovirus PE=3 SV=1
+--------------------------------------------SRLVVTKmetiyttddSY----SPSN-PLFimkeNVTNPGQGigVGPDGSRIFTWNLHhveldgtppsts--GPQVVFRD-SAIV---TAGYAIAAKHVYLQGNG-----------pnganTAKDFRLTSILFRATISRKynfST----GPFVESN-YNFNRNNPQFttgs---NTFN-----TVRLRIDEGQYYVA----------------------------------------------------------------
+>tr|A0A0M3VGG3|A0A0M3VGG3_9VIRU Capsid polyprotein VP90 OS=Bovine astrovirus PE=3 SV=1
+--------------------------------------------TRMTVTKmetlydtsnTY----QPSN-PTFimkfSAPGIDKGigVGTEGNRVFTWNLHrvqvegnlptt--GPPVVFSD-NDKV---QVGYVAAVNSVAFQGTG-----------pggasTPKNFYLANVLFVATDSRAftfsdTF----GPFVEGY-YTFNRNNPQFtags---NSNT-----SLRLKVDAGNVYVA----------------------------------------------------------------
+>tr|A0A1D6Y6S4|A0A1D6Y6S4_9VIRU Capsid protein OS=Water buffalo astrovirus GN=ORF2 PE=4 SV=1
+-------------------------------------------RAKYTIRAlkmmhnatDR--DYIPAT-PMWfqkkNVTSSDRGilLNPGTNRVTTYDLFeadvegpipts--GIPVYFQD-TTQT---MAGYGVAYSNY--SGT------------iaqdsTNKDIHLTSMLFYATTNRGytftqsND----GLFKEAH-ATYNAFARGLvvgs---GDLT-----ERRLQIEAGHWYVA----------------------------------------------------------------
+>tr|V9SB98|V9SB98_9VIRU Capsid polyprotein VP90 (Fragment) OS=Bovine astrovirus PE=3 SV=1
+-----------------------------------QTRGRVRNRQ-------------GLPNRP-vyqKVTTTLgtigsntsndi--ET-eM---CTIINPSLMREQ-------------TGSNNFGPLGVVAS-qysLWKLRRMVVRLKPlvgnNAANGTM------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A0M3VGG9|A0A0M3VGG9_9VIRU Capsid polyprotein VP90 OS=Bovine astrovirus PE=3 SV=1
+--------------------------------------------ATIHATAaealyntsaSN--DYVPAW-PIWrqrtNVPNPNNGigVGPQNTRINTWDLYkvqvdqpapsq--GPQVYYGFNNNAV---PIGVVAATSYVQFQSTG-----------gtATKDIRLTNVLFYCTANQQatYD----GPFRTVA-FENVAGVMGLrvqs---NETQ-----QIRLAVTPGNWYVA----------------------------------------------------------------
+>UniRef100_A0A1L6BXD4 Capsid polyprotein VP90 n=1 Tax=Canine astrovirus TaxID=1157338 RepID=A0A1L6BXD4_9VIRU
+---------------------------------LPVRppliEDTFTLLTGVVQP--YQ-VNPPCP--TYIYKQDTkvvVKmGDRYDEV-----------------------------------------------------------------------------------N----FFFKAAHPHVWLvgsqagwntsekpaaldfmevgskrhrwqlqqerlplgysqhkvpkwwnysvltfyvvalnqqirivssettlpvtgsgsettmalsgnEVS-----EREFILNPGPWFIFVAIHS-----------------------------------------------------------
+>UniRef100_A0A2P1E4L5 Capsid polyprotein VP90 n=1 Tax=Canine astrovirus TaxID=1157338 RepID=A0A2P1E4L5_9VIRU
+---------------------------------LPIPpapdtpaviGDNFKLVTGVFQQ--YQ-QNPPCP--TYLYHSYNkvvAKvGQHYDEI-----------------------------------------------------------------------------------N----FIFRATTPHIWLagtqpnfqlatkptalpfmeigqksnsqylrrgeiwgysqhkvssangqsvltfyvgkldnqirysnykqvrysftgngsttslnplptEVD-----LQFLDLNPGPWFIFVSMHF-----------------------------------------------------------
+>UniRef100_A0A2P1E4L9 Capsid polyprotein VP90 n=29 Tax=unclassified Mamastrovirus TaxID=526119 RepID=A0A2P1E4L9_9VIRU
+---------------------------------LPMIpnppatiEDRFMLVTGVTQP--FQ-VNPPCP--TYTYKDNTrivVKvGNHYDEV-----------------------------------------------------------------------------------N----FIYKATHPHVWLagsqtswttsskpdfmdfmevgirdtggnynkrgglwgysqhklvssgitnvvtfyvgqlssqiritsvkqqryqitgtgssttlaptgqETT-----LNVQEINPGPWIILVAIHQ-----------------------------------------------------------
+>UniRef100_A0A2Z5DTV2 Capsid polyprotein VP90 n=1 Tax=Human astrovirus-5 TaxID=35741 RepID=A0A2Z5DTV2_HASV5
+---------------------------------IATAGDRLKVILTVGQP--VTPNEVNKQ--NWVGKTNTpteevIKiGVNTQSYNVMNGFTMISSIDWYD---EEMQPLEVPAPMSDLLVMKGINKKADVYAAQQYKnsisNNKHQITSVYLIRAKENFQV-TNHLSYFFRekV----DTTAVELMKIRPQTY-----HTTVNFVQNNWYLLTSTVL-----------------------------------------------------------
+>UniRef100_A0A5J6KHW5 Capsid polyprotein VP90 n=1 Tax=Mamastrovirus 2 TaxID=1239566 RepID=A0A5J6KHW5_9VIRU
+---------------------------------TPEPGDVLNVI-GETST--ASSPSSNGI--FWLSAPSEraikvgar-----QNRYFPAAGFQLLELVDFYT---ANFREAQQPQPIPGAGVWQGDYKMGDVYAIQQYQhaksNYETQVTTVALVRTKGDTPN-YTwaaQGRYFYR------ASGNDNIALQKDST-----NKNFSIPTNRWMFVYGFYQ-----------------------------------------------------------
+>UniRef100_A9P754 Capsid polyprotein VP90 n=132 Tax=Astroviridae TaxID=39733 RepID=A9P754_9VIRU
+---------------------------------VQDPSGELRVLLTVGSI--MSPNSADRQ--VWLNKTLTapgtnsndnlVKiAHDLGHYLIMQGFMHIKTVEWFT---PDFQPSRDPTPIAGMSVMVNITKKADVYFMKQFKnshtNNRHQITSIFLIKPLADFEV-QSYMSYFKReshD----NNDGVANLTVRSMTS-----PKTVRFQAGEWYLLTSTTL-----------------------------------------------------------
+>UniRef100_A9ZMK9 Capsid polyprotein VP90 n=110 Tax=Astroviridae TaxID=39733 RepID=A9ZMK9_9VIRU
+---------------------------------IPTPGEEFKVILTFGAP--MSPNANNKQ--NWVNKPLDapsghynVKiAKDVDHYLTMQGFTSIASVDWYT---TDFQPSEAPAPIQGLQVLVNSSKKADVYAVKQFVtaqtNNKHQVTTLFLVKVTTGFQV-NNYLSYFHRasP----SGDATTNLLVRGDTY-----TAGISFTQGGWYLLTNTSI-----------------------------------------------------------
+>UniRef100_C5IDP4 Capsid polyprotein VP90 n=1 Tax=California sea lion astrovirus 2 TaxID=645427 RepID=C5IDP4_9VIRU
+---------------------------------VPPPptphfqnQDEayFMSNISFLA---TNGSGVPKA--MYQAATIlrikmDisgVVkNAPLCFFrklsaPHAFFTTHPDSTLSTF---VGTNLPPAIPGFEFQNTSNQkfgnvhfYSTQVVRRDTDYYKydfyVINITARTNLTTLGDKFDMA-ETsgYAAIQFNnt-----------------ES------PAGLTLEQSNWYLVGNIMK-----------------------------------------------------------
+>UniRef100_E7CVF0 Capsid polyprotein VP90 n=9 Tax=Mamastrovirus TaxID=249588 RepID=E7CVF0_9VIRU
+---------------------------------RMMPEDTIYLRFKPETL--SVvsNYQPAQR--PMLAKTYSggdlive----QGTNKTKIHTIVKISDPSWYS---AYWDSISTPQPIAEVNCKVGAAVVGDILASYQVHGLGAHTTTAFVVRMTTNANT-RVQTGAITT-----KDINDYDLKIKGGRP-----EFSWNLASGTWYLMMSFGN-----------------------------------------------------------
+>UniRef100_F1D810 Capsid polyprotein VP90 n=1 Tax=Minke whale astrovirus 2 TaxID=943161 RepID=F1D810_9VIRU
+---------------------------------CPEPptppelEKPdgpFYLSCRAHSaA--MQHESHVAL--VLAGTNAqlvaKirvahgsSSvHDTTDDH---IGLVFyLANAFAHS---TTGKLLEMPGWIQSVQDVVHfnGTEVGTICAATRFYqgdssPDHHWIVNVYLIQLSKLVSL-HGswSAAHTVTvrD----QSDDTSVAKLKNNTS-----ITYTDLPANSYVLGVSWTY-----------------------------------------------------------
+>UniRef100_F6JX89 Capsid polyprotein VP90 n=1 Tax=Astrovirus dogfaeces/Bari/2008 TaxID=764592 RepID=F6JX89_9VIRU
+---------------------------------LPLPdtpatiGDSFRLITGVYQQ--FQ-QNPPCP--TYVYHST-nkmvVKvGTHYDELnFVYRATTPHIWLAGGP---QTWQXADKPDELSFMEIGIKsgstYLKRGIVWGYSQHKivsGSELSVLTFYVGKLDNQIRY-TNykKVRYLFTG----TGSSLNLAPDSTTTD-----LQVLELNPGPWFVFASLHL-----------------------------------------------------------
+>UniRef100_G1JYT7 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 4 TaxID=1073953 RepID=G1JYT7_9VIRU
+---------------------------------PPQPPPVtpisneffymAFTTAALGNT--FLaKITNFKV--VDVEDTThTstpmaim-KiDSPHSAYhvkEVDGQIRP-----------GDWASNALPAAIPRLEVRNGATKVGTVHGFAAQGvqqGDSKYLFNAFLVIMTQETRL-TYnVGSIPYK-----FESTANLVSCATATtT-----STQVTLTPGPWYYFLSVTK-----------------------------------------------------------
+>UniRef100_G1JYU0 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 5 TaxID=1073954 RepID=G1JYU0_9VIRU
+---------------------------------IPDITDEVYLRTVLYPM--LS-GPEFAH--TWCNSSSTqqhlvvgldTTrNTHINNVw----------------------------------------------------------------------------------------------------rigsrgdwsptfynrdleripppranlsvylnetkigdvlmayqhvvannvlslfyvkltktqsisynqvckttkvetsntlaivtgTGE-----LRTITLNQGTWYLFVAIGT-----------------------------------------------------------
+>UniRef100_G1JYU3 Capsid polyprotein VP90 n=1 Tax=California sea lion astrovirus 6 TaxID=1073955 RepID=G1JYU3_9VIRU
+---------------------------------LPQPptpptptyDNEgwiiFNCATSYLLgtP--FAaKNGTLRI--GLKSKAN-gdiIKvPTVFCARiNTPHCFLK-SNENGDI---LGLISHNQLPPTAGINLVSQngNTVYGTVHAYGSHIvatsgtaEQKKVKYDFYLVKVTTATAS-TEqtDAKNIYI------EAGTNIMKFSERTG-----DTRLQLTDQVWYLFGNYKQ-----------------------------------------------------------
+>UniRef100_G1JYU6 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 7 TaxID=1073956 RepID=G1JYU6_9VIRU
+---------------------------------IPQPpippsgyDEEgwlvFNCATSYTMgsA--CAaKNSTLAI--GLKSKNN-lsteIKiPTVFCAKvETPHCFLK-SNEAGQV---LGYIAAASLPPAAGISLVSKtsSTVYGTVHAFGSHIvtsttPAKKVKYDFYLVKITSDHAS-TSqtDAHDIYV------AQGTNVLQFHRRSE-----QPRLTLNNQSWYIFGNYKQ-----------------------------------------------------------
+>UniRef100_G1JYU9 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 8 TaxID=1073957 RepID=G1JYU9_9VIRU
+---------------------------------LPPPtppafGDGlnLAAICSDGR----A-RYLKNI--SFEVKTSvggtQhka-PiGFCVRLA-SPHAFFNLSSSDNFG---EKVMNTIPPSI-SFVGVVGA----TEHFTIHGYTyevvtqQSNTYKYDFYLAKAKTDAFL-TPTEEWTLG-----LTQGTNTISFTSAT------PAQVAWNVGNWYMLGNIQK-----------------------------------------------------------
+>UniRef100_G1JYV2 Capsid polyprotein VP90 n=1 Tax=California sea lion astrovirus 9 TaxID=1073958 RepID=G1JYV2_9VIRU
+---------------------------------PPTPPPQpvfarqdwmianMQLSFPNGGyA--KVvKSTTLRI--RWSISEVehGcpivfwm-RvHAPHSFFkSDAEGDNL-----------SFVGTALPPSIDEAKLVNGSGEVFGTVHAYSSHLitsGNAKFKYDFYLVKIIKDGAS-HDgQDPKTIV-----TMPGHNTLNFATDTatD-----ARRINLNTNVWYLLGSYKQ-----------------------------------------------------------
+>UniRef100_G1JYV5 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 10 TaxID=1073951 RepID=G1JYV5_9VIRU
+---------------------------------PPVPPALgdglnLASINSDGQA--RYfKSPGFEV--KTTIGGSphSapiglvt-RlATPHAFFTILAGDNF-----------GEKVMNTLPPA-LAFSGMASGSEHFTIHGYTYKVvqqTTNYYKYDFYLAKAKTTNHV-TPAHEWAIG-----LTQGSNTISFTSVTS-----PGRVTWSQNNWYLFANIQK-----------------------------------------------------------
+>UniRef100_G1JYV8 Capsid polyprotein VP90 (Fragment) n=1 Tax=California sea lion astrovirus 10 TaxID=1073951 RepID=G1JYV8_9VIRU
+---------------------------------LPPPvppalGDGlnLASINSDGQ----A-RYFKSP--GFEVKTT-iggsphsa-PiGLVTRLA-TPHAFFTILAGDNFG---EKVMNTLPPAL--AFSGMAG---GSEQFTIHGYTykvvqqTTNYYKYDFYLAKAKTTNHV-TP--AHEWAiG----LTQGSNTISFTSVTS-----PGRVTWSQNNWYLFANIQK-----------------------------------------------------------
+>UniRef100_G1JYW1 Capsid polyprotein VP90 n=1 Tax=California sea lion astrovirus 11 TaxID=1073952 RepID=G1JYW1_9VIRU
+----------------------------------PEPpvTDE--VYLHCSL------HNESQR--AYLFKEFlGgplragisltrkctIRyVARISDH----------------------------------------------------------------------------------------------------kgvspywldsnlnpinpprgnmsiywgndrwakvfafsytradnyitaafafameanqrltpskqfalslaeghtnytlidrDRQ-----GAAFSLNRGVWYLGVSIYP-----------------------------------------------------------
+>UniRef100_G4V2D4 Capsid polyprotein VP90 n=2 Tax=Porcine astrovirus 1 TaxID=1239567 RepID=G4V2D4_PASV1
+---------------------------------RASPSDVIYMNFKPETV--TVNSTPADR--FLFARNYQsdtltvr----GVDGRTKVHGVVRILEPAWYD---LDWDPVPQPAPIPGVKLYGGDTTIGDVIAAYQAHMLGLHIATAFVVMVEKQVSP-RANTSCALT-----KLANDPHLKTTAGNT-----AFNWTLTTGM-YLMMSFGE-----------------------------------------------------------
+>UniRef100_G9FRJ5 Capsid polyprotein VP90 n=1 Tax=Canine astrovirus VM-2011 TaxID=1131334 RepID=G9FRJ5_9VIRU
+---------------------------------LPEPmppsviTDNFMLVTGFNQP--YQ-SNPPCP--TYIYKDD-vkvvVKcENSYDEVnFFFKAAHPHAWLTGSA---GNWTGAEKPGFLSFMEVGVRnnagnYNKAGNLWGYSQHRvtsGDTTSVLTFYVGQLSSTIRI-QSpkSQRYRYVG----SGDTTSLQPDGTETV-----PRTFELNPGPWIIFVAIHS-----------------------------------------------------------
+>UniRef100_Q14V06 Capsid polyprotein VP90 n=86 Tax=Astroviridae TaxID=39733 RepID=Q14V06_HASV1
+---------------------------------IPEPGEQFRVLLTVGPP--MAPNTANSQ--NWVNKTIVppenqytVKiGIDLEHYTTMQGFTPVESVSWYT---ADFQPSDEPNPIPGLYARVNNTKKADVYGVQQFKsshtNNRHQITSVFLVRVTTSFQV-INYTSYFIRgaE----SGSNVSNVKIRDQTY-----HTPLQFTQGKWYLLTSTVM-----------------------------------------------------------
+>UniRef100_Q14V07 Capsid polyprotein VP90 n=1 Tax=Human astrovirus-1 TaxID=12456 RepID=Q14V07_HASV1
+---------------------------------IPTPGDTFKVVLTIGQP--FAPNTLANQ--TWVNKTTTapqgqhvVKiAKDTSNYTTMQGFTPISNVTWYT---EDFQPSEEPPPISGLQVLVDSRKKADVYAVQQYLnhpsNTKDQLTSIFLVRVTTSFQV-NNHLSYFYRaaG----TGTAVENFKIRGATS-----DQNISFSE-GWYLMTNTAT-----------------------------------------------------------
+>UniRef100_Q14V08 Capsid polyprotein VP90 n=1 Tax=Human astrovirus-1 TaxID=12456 RepID=Q14V08_HASV1
+---------------------------------IPTSGETLKVLLTVGNP--ISPNETNNQ--IWLNKTLTapgtnDQpSLGHGEKPATLGRSIPTSGETLK---VLLTVGNPISPNETNKQTWVNKTIEPPGAVVKIGrdtqhyctlngftLIKQQVTSVFLVRVNEGFQV-TTHLSYFYRnsV----NTDAVENIKIRSATR-----HTTVRFNQGSWYLLTSSVL-----------------------------------------------------------
+>UniRef100_Q14V11 Capsid polyprotein VP90 n=1 Tax=Human astrovirus-1 TaxID=12456 RepID=Q14V11_HASV1
+---------------------------------VPEPGDQFKVIMAVGAL--VQPNRSDTQ--IWLFKTVTpptghdaARvGWKTQHYLTKQGFLLIDSLEWLT---PNLQDSQEPPSIPELGVYVGIHKKALVYFMQQYVnphtNNKHQVSSIFLIKPTENFSV-TNYMSYFFRvsQ----SGQNVANLEIRPQTW-----QQTVNFQRGKWYLVTNTAI-----------------------------------------------------------
+>UniRef100_Q14V12 Capsid polyprotein VP90 n=1 Tax=Human astrovirus-1 TaxID=12456 RepID=Q14V12_HASV1
+---------------------------------IPSPGDTFNVVLTIGQP--LAPNTLTKQ--NWLNKTTVspqnhhvVKiAKDVNNYTTMQGFTPISSVDWYT---TDFQPSEEPTPIPGLQVLVNSSKKADVYAIQQYLnnqtNNKVQLTSIFLVKVTTSFQV-NQLFGAISTgamE----LVLLLENLKVRSDTT-----AQDVNFPV-GWYLMTNTAI-----------------------------------------------------------
+>UniRef100_Q9JG99 Capsid polyprotein VP90 n=1 Tax=Porcine astrovirus 1 TaxID=1239567 RepID=CAPSD_PASV1
+---------------------------------RAAPDDIVYLRFKPETV--NISVSPAAR--LFLARKYTahslkvk----GNSGTTRIHCVVKVNDPMWYS---PDWEQVAQPGPIPGVSLLGGTTTIGIVTAAYQAHMWGLHIATAFIVQVTKDINP-ACSTSCVLT-----KELNDQHLKTVAGQT-----SFNWSLRAGETYLMMSFGA-----------------------------------------------------------
+>UniRef100_U3GWH1 Capsid polyprotein VP90 n=1 Tax=Feline astrovirus 2 TaxID=1389204 RepID=U3GWH1_9VIRU
+---------------------------------IPEPDTIWRLVFDPTNV--GPIRPNHGV--YLTGNYTSdtlrigps---IAGNNHSLVHMIVRVENPKLFN---RKWEPLPTPEPMPNLRLYGGTTHIGDILLKSQVQgpsgAATQFTATAYVVVMRNTTTP-RTsNGWHTTK------AAQYSYMQVAQSTD-----AAEWRLFQGVWYIMLSFGN-----------------------------------------------------------
+>UniRef100_W5X1V8 Capsid polyprotein VP90 n=22 Tax=Mamastrovirus TaxID=249588 RepID=W5X1V8_PASV1
+---------------------------------RMMPEDTIYLRFKPDTL--SVvsNFQPAKR--PMLAKTYSgdtltvg----QGNNKTAIHTVVRISDPTWFS---ADWDPISTPQPIAEIYCKAGTTTVGDILAAYQVHGLGNHTTTAYVVRMTAGANP-QVSAGIVTN-----KGTNDYDLKTANSNA-----GFSWNLGSGTWYLMMSFGD-----------------------------------------------------------
+>UniRef90_A0A140KFF4/399-653 [subseq from] Capsid polyprotein VP90 n=82 Tax=Astroviridae TaxID=39733 RepID=A0A140KFF4_9VIRU
+-----------SETTYTGPRSIVTPETPIGPSSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTFRSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVFGDVGNVFVDNDNVAKVITMSGSSAPANRGATLMLCKATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVTQWEANKTLAYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQLYGFSWSSPTYACVTWEPIYADEGIPHR
+>UniRef90_A0A0K0LQ40/397-650 [subseq from] Capsid polyprotein VP90 n=20 Tax=Astroviridae TaxID=39733 RepID=A0A0K0LQ40_9VIRU
+-----------NETTYTGPRSV-LPDQPIGPSSYPMTPDSLVLMAGYFRAPEINENFGRYMPYVFQQRSEVIKFVSGTHHTMVVGLWTVDRTMWLDKHFNHFTNEPDGVFGEVGNILINGDNVAKVITMSGSSATSERGATLMLCKTTKPVQTFSVNADVFIPAYRVIDGQGGKDIKIQINSWEDNKQLQFTSMPTGTYFMVLTMGGGTFVVKNYVVYNERINNDLQLPAFWGKYLSQAFGLSWSSPTYACVTWEPIYSNEPLPHR
+>UniRef90_S6AVQ9/397-650 [subseq from] Capsid polyprotein VP90 n=8 Tax=unclassified Astroviridae TaxID=352926 RepID=S6AVQ9_9VIRU
+-----------NETTYTGPRSV-LPDQPIGPSSYPMTPDSLVLMAGYFRAPEINENFGRYMPYVFQQRSEVIKFVSGTHHTMVVGLWTVDRTMWLDKHFNHFTNEPDGVFGEVGNILINGDNVAKVITMSGSSATSERGATLMLCKTTKPVQTFSVNADVFIPAYRVIDGQSSKDIKIQINSWEDNKQLQFTSMPTGTYFMVLTMGGGTFVVKNYVVYNERINNGLQLPAFWGKYLSQAFGLSWSSPTYACVTWEPIYSNESLPHR
+>UniRef90_E7CZZ9/1-160 [subseq from] ORF2 (Fragment) n=4 Tax=Mamastrovirus TaxID=249588 RepID=E7CZZ9_9VIRU
+----------------------------------------------------------------------------------------------------------DGVFGDVGNVFVDNDNVAKVITMSGSSAPANRGATLMLCKATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWEANKTLTYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQLYGFSWSSPTYACVTWEPIYADESIPHR
+>UniRef90_A0A8E0KGJ4/437-694 [subseq from] ORF2 protein n=1 Tax=Macaque MLB-like astrovirus TaxID=2796356 RepID=A0A8E0KGJ4_9VIRU
+-----------NESTVLGPRGPVEPSQPIGPSSYPMTSASLVLMGGYFRSP-MAANFGQYMAYLFRQKndNRKIEYRlaSGSR-TKVVFFCYVDYVKWMDKQFNLYTNEPDGVFGDVGNIYINGSNVAKVISMSGTSGTFNNGITFMLCRTTSAIGNFQVSdVEIYVPYLRVFQGTGGKDMDISFQKWEDSSNISFNAMPDNMYFLVATMGGGKFAAKSYTVYNEEFSESFHLNARWAKYISQVFGMSWDSPTYACVTWEPRYLQEPVPSR
+>UniRef90_T0XXP9/6-56 [subseq from] Putative cation diffusion facilitator family transporter (Fragment) n=1 Tax=Leptospirillum sp. Group IV 'UBA BS' TaxID=1260983 RepID=T0XXP9_9BACT
+-HHHHHHHHPHSDDFFRGPEGSLRPASPDNPLLWPVLGSSTLLF--LFSLPEIL--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001134261474/402-656 [subseq from] MGYP001134261474
+-----------SETTYTGPRSIVTPETPIGPSSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQQNTSKVTFRSGSHTIKIVSMVLVDRLMWLDKHFNQYTNEPDGVFGDVGNVFVDNDNVAKVITMSGSSAPANRGATLMLCKATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQWEANKTLTYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQLYGFSWSSPTYACVTWEPIYADEGIPHR
+>MGYP001060956835/437-690 [subseq from] MGYP001060956835
+-----------NETTYTGPRSV-LPDQPIGPSSYPMTPDSLVLMAGYFRAPEINENFGRYMPYVFQQRSEVIKFVSGTHHTMVVGFWTVDRTMWLDKHFNHFTNEPDGVFGEVGNILINGDNVAKVITMSGSSATSERGATLMLCKTTKPVQTFSVNADVFIPAYRVIDGQSSKDIKIQINSWEDNKQLQFTSMPTGTYFMVLTMGGGTFVVKNYVVYNERINNDLQLPAFWGKYLSQAFGLSWSSPTYACVTWEPIYSNEPLPHR

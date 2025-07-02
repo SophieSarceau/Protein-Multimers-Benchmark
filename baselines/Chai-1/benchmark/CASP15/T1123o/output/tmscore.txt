@@ -1,0 +1,25 @@
+
+ ********************************************************************
+ * US-align (Version 20241108)                                      *
+ * Universal Structure Alignment of Proteins and Nucleic Acids      *
+ * Reference: C Zhang, M Shine, AM Pyle, Y Zhang. (2022) Nat Methods*
+ *            C Zhang, AM Pyle (2022) iScience.                     *
+ * Please email comments and suggestions to zhang@zhanggroup.org    *
+ ********************************************************************
+
+Name of Structure_1: ./benchmark/CASP15/T1123o/output/pred.model_idx_0.cif:A:B (to be superimposed onto Structure_2)
+Name of Structure_2: ./benchmark/CASP15/T1123o/T1123o.pdb:A:B
+Length of Structure_1: 532 residues
+Length of Structure_2: 428 residues
+
+Aligned length= 213, RMSD=   6.94, Seq_ID=n_identical/n_aligned= 0.164
+TM-score= 0.25616 (normalized by length of Structure_1: L=532, d0=8.15)
+TM-score= 0.30022 (normalized by length of Structure_2: L=428, d0=7.43)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d < 5.0 Angstrom, "." denotes other aligned residues)
+MHHHHHHHHHHSETTYTGPRSIVTPETPIGPSSYPMTPSSLVLMAGYFSGPEISDNFGKYMPLLFQ-Q-NTSK-VTF-R---SG---------SHTIKIVSM-VLVDRLMWLDKHFNQYTNEPDGVFGDV--------------GNVFVDNDNVAKVI--T-MSGSSAPANRGATLMLCRATKNIQTFNFAATVYIPAYKVKDGAGGKDVVLNVAQW-----------------------EANKTLTYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGK----YLSQLYGFSWSSPTYA---------------------------------CVTWEPIYAEEGIPHR*MHHHHHHHHHHSETTYTGPRSIVTPETPIGPSSYPMTPSSLVLMAGYF--------------SGPEISDNFGKYMPLLFQQNTSKVTFRSGSHTIKIVSMVLVD------------------------RLMWL-DKHFN----QY-TNEPDGVFGDVGNVFVDNDNVAKVIT-----------------------MSGSSAPANRGATL-----ML-CRATKNIQTFNFAATVYIPAYKVKDGAGG------------KD-VVLNVAQWEANKTLTYPAIPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELP------AFWGKYL----SQ-LYGFSWSSP---TYA-------CV-TWE-PIYAEEGIPHR------------*
+                   .                          ..:.::..   .....:... . .... ... :   .:         :........ ...::..                                  ..:::..::.:...  . .....::::.  ::::::.  ::::...:.                                                ..:..: .: :   :.:::::...                               .::....                                          ..:.....        *                                                              .::.::  :::...                                                    ....  ....:    .. ...                                              ..:..              .  .                                        .  .                    .::::::.. ......::::::. :::...         ..::...    .. ..:::::..   :..       .. ::. :.:.                   *
+-------------------S--------------------------YPMTPSSL---VLMAGYFSGPEIGKYMPLLFQQNTSKVTFRSGSHTIKIVSMVLVDRLMWLDKH--------------------FNQYTNEPDGVFGDVGNVFVDNDNVAKVITMSGSSAPANRGA--TLMLCRA--TKNIQTFNF-------------------------AATVYIPAYKVVVLNVAQWEANKTLTYPA-IP-K---DTYFMVVTMG---------------------------GASFTIQRYVV---------YNEGIGDGLELPAFWGKYLSQLYGFSWSSPTYACVTWEPIY--------*------------------------------------------------SYPMTPSSLVLMAGYFSGPE--IGKYMP----------------------------LLFQQNTSKVTFRSGSHTIKIVSMVLVD-RLMWLDKHFNQYTNEP-----------------------DGVFGDVGNVFVDNDNVAKVITMSGSSA---------PANRGA-TL----------------------------MLCRATKNIQTFN-FA--------------------ATVYIPAYK-VVVLNVAQWEANK-TLTYPA---IPKDTYFMVVTMGGASFTIQRYVVYNEGIGDGLELPAFWGKYLSQLYGFSWSS-------PTYACVTWEPIY*
+
+#Total CPU time is  1.11 seconds
