@@ -10,3 +10,6 @@ Run `python construct_msa.py`.
 
 ### 3. Structure Prediction
 Run `python structure_prediction.py`.
+
+### 4. TM-Score Calculation
+
