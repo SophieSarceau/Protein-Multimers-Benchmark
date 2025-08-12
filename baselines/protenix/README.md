@@ -12,4 +12,4 @@ Run `python construct_msa.py`.
 Run `python structure_prediction.py`.
 
 ### 4. TM-Score Calculation
-
+Run `python cal_tmscore.py`.
