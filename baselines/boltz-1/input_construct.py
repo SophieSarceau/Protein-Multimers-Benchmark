@@ -9,13 +9,13 @@ def read_msa_file(msa_path):
     Returns a dict: {sequence: msa_file_path}
     """
     msa_dict = {}
-    msa_files = [f for f in os.listdir(msa_path) if f.endswith(".a3m")]
-    for file in msa_files:
-        with open(os.path.join(msa_path, file), "r") as handle:
+    msa_folders = [folder for folder in os.listdir(msa_path) if os.path.isdir(os.path.join(msa_path, folder))]
+    for folder in msa_folders:
+        with open(os.path.join(msa_path, folder, "pairing.a3m"), "r") as handle:
             records = list(SeqIO.parse(handle, "fasta"))
             if records:
                 query_seq = str(records[0].seq)
-                msa_dict[query_seq] = os.path.join(msa_path, file)
+                msa_dict[query_seq] = os.path.join(msa_path, folder, "pairing.a3m")
     return msa_dict
 
 def main(input_dir):

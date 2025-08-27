@@ -11,7 +11,7 @@ def main(casp_root_path):
         output_path = os.path.join(casp_root_path, target_id, "output")
         # Run structure prediction
         try:
-            os.system(f"boltz predict {input_path} --out_dir {output_path}")
+            os.system(f"boltz predict {input_path} --out_dir {output_path} --override")
         except Exception as e:
             print(f"Error occurred while predicting structure for {target_id}: {e}")
 
