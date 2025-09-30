@@ -43,6 +43,7 @@ def main(casp_folder, data_dir):
         os.chdir(original_cwd)
 
 if __name__ == "__main__":
-    casp_folder = "./CASP16"
+    # casp_folder = "./CASP16"
+    casp_folder = "./smp1"
     data_dir = "./ParallelFold/data"
     main(casp_folder, data_dir)

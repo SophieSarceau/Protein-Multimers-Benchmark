@@ -81,7 +81,8 @@ def parse_tmscore_output(output_file):
 
 if __name__ == "__main__":
     # python cal_tmscore.py --folder_path ./CASP16/
-    folder_path = './CASP16/'
+    # folder_path = './CASP16/'
+    folder_path = './smp1/'
 
     results_list = []
     folders = read_folder(folder_path)
